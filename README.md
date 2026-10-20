@@ -274,10 +274,13 @@ npm test
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
+## 👨‍💻 Authors
 
-- RASHMI RANJAN SAHOO (Fronted)
-- DENSI THUMMAR (Backend)
+| Name                          | Role      |
+| ----------------------------- | --------- |
+| **Rashmi Ranjan Sahoo** | Frontend Developer |
+| **Densi Thumahar**      | Backend Developer |
+
 
 ## 🙏 Acknowledgments
 
